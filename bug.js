@@ -1,0 +1,1 @@
+This error occurs when using the Expo DocumentPicker library and selecting a file that is too large. The library does not handle large files well and throws a cryptic error message that is not very helpful in debugging.  The error message does not provide clear information about the file size limit or suggest a workaround.
